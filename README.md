@@ -35,7 +35,7 @@ Existing remote sensing image salient object detection (RSI-SOD) methods widely 
 
 
 
-## 2. Propose a multitask learning-based (MTL) sceneguided dual-branch network (SDNet)
+## 2. Propose a multitask learning-based (MTL) scene-guided dual-branch network (SDNet)
 ![image](https://github.com/lyf0801/SDNet/assets/73867361/25332464-0263-4864-b27f-3e2c7c70e2d7)
 ![image](https://github.com/lyf0801/SDNet/assets/73867361/a395263e-4f74-406c-9771-1780249dd998)
 
@@ -99,6 +99,7 @@ python compute_metrics.py
   pages={1-16},
 
   doi={10.1109/TGRS.2023.3298661}
+
   }
 
 @ARTICLE{SRAL2023,
@@ -120,6 +121,26 @@ python compute_metrics.py
   doi={10.1109/TGRS.2023.3267271}
   
   }
+
+@ARTICLE{UG2L2023,
+
+  author={Liu, Yanfeng and Yuan, Yuan and Wang, Qi},
+
+  journal={IEEE Geoscience and Remote Sensening Letters},
+
+  title={Uncertainty-Aware Graph Reasoning with Global Collaborative Learning for Remote Sensing Salient Object Detection},
+
+  year={2023},
+
+  volume={20},
+
+  number={},
+
+  pages={1-5},
+
+  doi={10.1109/LGRS.2023.3299245}
+
+}
 
 @InProceedings{RSSOD2023,
 
@@ -158,9 +179,10 @@ python compute_metrics.py
 
 # Acknowledgment and our other works
 1. <https://github.com/EarthNets/Dataset4EO>
-2. <https://github.com/lyf0801/HFANet>
-3. <https://github.com/lyf0801/SRAL>
-4. <https://github.com/rmcong/DAFNet_TIP20>
-5. <https://github.com/rmcong/EORSSD-dataset>
-6. <https://github.com/rmcong/ORSSD-dataset>
+2. <https://github.com/lyf0801/UG2L>
+3. <https://github.com/lyf0801/HFANet>
+4. <https://github.com/lyf0801/SRAL>
+5. <https://github.com/rmcong/DAFNet_TIP20>
+6. <https://github.com/rmcong/EORSSD-dataset>
+7. <https://github.com/rmcong/ORSSD-dataset>
 
