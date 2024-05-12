@@ -150,7 +150,7 @@ python compute_metrics.py
 
   booktitle = {Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
 
-  pages={},
+  pages={6549-6552},
 
   year = {2023}
 
